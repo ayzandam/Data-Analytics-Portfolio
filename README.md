@@ -1,2 +1,4 @@
-# Data-Analytics-Portfolio
-This repository contains a diverse range of data analytics projects demonstrating data cleaning, visualization, reporting, and business intelligence skills using Microsoft Excel, Power BI, and Tableau.
+## About Data-Analytics-Portfolio
+This repository showcases a collection of end-to-end data analytics projects focused on transforming raw data into actionable insights. It highlights practical experience in data cleaning, exploratory data analysis, and data visualization to support data-driven decision-making. <br>
+The projects demonstrate proficiency in tools such as Microsoft Excel, Power BI, and Tableau, covering tasks like dashboard development, KPI tracking, and interactive reporting. Each project is designed to reflect real-world business scenarios, emphasizing clarity, storytelling, and usability.<br>
+Overall, this portfolio represents my ability to analyze complex datasets, communicate insights effectively, and deliver business intelligence solutions that add measurable value.
